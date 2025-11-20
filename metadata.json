@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ReactSwitch OS",
+  "description": "A highly detailed, fully functional Nintendo Switch simulator featuring playable mini-clones of classic games (Platformer, RPG, Racing, Fighter). Built with React, Tailwind CSS, and Framer Motion.",
+  "requestFramePermissions": []
+}
